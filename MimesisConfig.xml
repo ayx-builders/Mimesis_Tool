@@ -13,7 +13,7 @@
     <MetaInfo>
       <Name>Mimesis Data Generator</Name>
       <Description>Generate random data using the Python package Mimesis.</Description>
-      <CategoryName>Developer</CategoryName>
+      <CategoryName>ayx_builders</CategoryName>
       <SearchTags>python, sdk, input, python sdk, optional input</SearchTags>
       <ToolVersion>1.1</ToolVersion>
       <Author>Sophia F.</Author>
